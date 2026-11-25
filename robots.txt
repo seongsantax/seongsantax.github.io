@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /blog-sample
+Sitemap: https://seongsantax.co.kr/sitemap.xml
